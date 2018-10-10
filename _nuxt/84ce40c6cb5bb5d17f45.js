@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{275:function(n,e,t){"use strict";t.r(e);var i=t(15),l=Object(i.a)({},function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("\n  原稿ページ\n")])},[],!1,null,null,null);l.options.__file="article.vue";e.default=l.exports}}]);

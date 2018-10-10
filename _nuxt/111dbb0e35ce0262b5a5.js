@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{276:function(n,e,t){"use strict";t.r(e);var i=t(15),l=Object(i.a)({},function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("\n  原稿校正画面\n")])},[],!1,null,null,null);l.options.__file="article.vue";e.default=l.exports}}]);
